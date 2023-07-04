@@ -49,7 +49,7 @@ To check to supply of your token click on the public variables totalSupply in th
 Similarly, you can use the burn function and check the value by clicking on the ublic variable totalSupply.
 
 Authors
-SONIA 21bcs9782@cuchd.in
+Satyendra 22mca20969@cuchd.in
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
